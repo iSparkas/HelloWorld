@@ -1,1 +1,8 @@
-
+{
+"name" :"HelloWorld",
+"description" :"HelloWorld",
+"namespace" :"HelloWorld",
+"author" :"HelloWorld",
+"type" :"HelloWorld",
+"serviceProvider" :null,
+}
