@@ -8,6 +8,6 @@ use Plenty\Plugin\Templates\Twig;
 class ContentController extends Controller{
     
     public function sayHello(Twig $twig):string {
-        return $twing->render('HelloWorld::TEMPLATE');
+        return $twing->render('HelloWorld::content.hello');
     }
 }
