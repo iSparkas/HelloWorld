@@ -2,7 +2,7 @@
 "name" :"HelloWorld",
 "description" :"HelloWorld",
 "namespace" :"HelloWorld",
-"author" :"HelloWorld",
-"type" :"HelloWorld",
+"author" :"Name",
+"type" :"template",
 "serviceProvider" :"HelloWorld\\Providers\\HelloWorldServiceProvider",
 }
